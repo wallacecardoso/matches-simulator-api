@@ -3,18 +3,18 @@
     
     "local": { 
       "nome":  "Estádio Maracanã",
-      "imagem": "TODO",
+      "imagem": "https://sportinsider.com.br/wp-content/uploads/2022/03/Camarote-do-Maracan%C3%A3-1280x720.jpg",
     },
     "descricao": "Eliminatórias Copa 2026",
     
     "mandante": {
-    "imagem": "TODO",
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/br.webp",
     "nome": "Brasil",
     "forca": 5,
     },
     
    "visitante": {
-    "imagem": "TODO",
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp",
     "nome": "Argentina",
     "forca": 5,
     },
