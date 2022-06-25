@@ -1,1 +1,24 @@
+[
+  {
+    
+    "local": { 
+      "nome":  "Estádio Maracanã",
+      "imagem": "TODO",
+    },
+    "descricao": "Eliminatórias Copa 2026",
+    
+    "mandante": {
+    "imagem": "TODO",
+    "nome": "Brasil",
+    "forca": 5,
+    },
+    
+   "visitante": {
+    "imagem": "TODO",
+    "nome": "Argentina",
+    "forca": 5,
+    },
+    
+  }
+]
 
