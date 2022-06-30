@@ -1,24 +1,36 @@
 [
   {
-    
-    "local": { 
-      "nome":  "Estádio Maracanã",
-      "imagem": "https://sportinsider.com.br/wp-content/uploads/2022/03/Camarote-do-Maracan%C3%A3-1280x720.jpg",
+    "descricao": "Eliminatórias Sulamericanas Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
-    "descricao": "Eliminatórias Copa 2026",
-    
     "mandante": {
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/br.webp",
-    "nome": "Brasil",
-    "forca": 5,
+      "nome": "Brasil",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
-    
-   "visitante": {
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp",
-    "nome": "Argentina",
-    "forca": 5,
+    "visitante": {
+      "nome": "Argentina",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Sulamericanas Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
-    
-  }
+    "mandante": {
+      "nome": "Brasil",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Chile",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
+  } 
 ]
-
